@@ -1,2 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=1000&color=B9B437&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+my+name+Ivan+Savitskiy;I'm+Front-end+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fubus05&bg_color=26262d&color=ffffff&line=81cafb&point=83cafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fubus05&theme=react&line=81cafb&point=83cafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
