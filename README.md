@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=1000&color=B9B537&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+my+name+Ivan+Savitskiy;I'm+Front-end+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fubus05&theme=react&line=81cafb&point=83cafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1  align="center">
-Skills
+🛠 Skills
 </h1>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="git" width="50" height="50" style="margin-right: 30px;"/>
@@ -15,6 +15,9 @@ Skills
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </div></br>
 
-# 📊 GitHub Stats:
+<h1  align="center">
+📊 Github Stats
+</h1>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fubus05&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fubus05&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
