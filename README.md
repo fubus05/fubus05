@@ -15,8 +15,6 @@ Skills
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </div></br>
 
-## Stats
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fubus05&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fubus05&theme=react&hide_border=true)
