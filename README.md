@@ -1,22 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=1000&color=B9B537&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+my+name+Ivan+Savitskiy;I'm+Front-end+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-<h1  align="center">
-🛠 Skills
-</h1>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="git" width="50" height="50" style="margin-right: 30px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 30px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
-</div>
-<div align="center">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin-right: 30px;"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" style="margin-right: 30px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin-right: 30px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-</div></br>
+# Hi, I'm Ivan 👋
 
-<h1  align="center">
-📊 Github Stats
-</h1>
+<strong>I am a Data Engineer and FullStack Developer </strong>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fubus05&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fubus05&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Greetings! I'm Ivan, a dedicated Software Engineer with a strong focus on cutting-edge technologies. Over the past five years, I have honed my skills in Python, React, TypeScript, Docker, SQL, and Kubernetes to craft seamless and dynamic user experiences.
+
+My passion for excellence drives me to constantly push the boundaries of innovation. As an inherently ambitious and purposeful individual, I am constantly seeking new challenges to expand my skill set and contribute positively to every project I undertake.
+
+In the realm of mobile development, I'm well-versed in React Native, harnessing its power to create captivating and user-friendly mobile applications.
+
+But my expertise doesn't stop at the front-end. I have ventured into the world of back-end technologies with proficiency in MySQL, MongoDB, .Net, Node.js, Express.js, and Nest.js. This comprehensive knowledge allows me to architect holistic solutions that seamlessly bridge the gap between front-end and back-end.
+
+With a proven track record of delivering exceptional results, I'm ready to embark on new ventures and collaborate on exciting projects. Let's connect and explore how I can contribute to your next innovation-driven endeavor.
+
+## Social 📱
+You can find me on the following social media platforms or send me an email:
+* 👔 [LinkedIn](https://www.linkedin.com/in/ivansavitskiy/)
+* 🗣 [Threads](https://www.threads.net/@uvaaaaaaaaaaaaaaaaaaa)
+* ✉️ [savitskiy.i.y@gmail.com](mailto:savitskiy.i.y@gmail.com)
