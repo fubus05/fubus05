@@ -1,6 +1,6 @@
 # Hi, I'm Ivan 👋
 
-<strong>I am a Data Engineer and FullStack Developer </strong>
+<strong>I am a Data Engineer and Software Engineer </strong>
 
 Greetings! I'm Ivan, a dedicated Software Engineer with a strong focus on cutting-edge technologies. Over the past five years, I have honed my skills in Python, React, TypeScript, Docker, SQL, and Kubernetes to craft seamless and dynamic user experiences.
 
