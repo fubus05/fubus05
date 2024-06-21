@@ -1,8 +1,8 @@
 # Hi, I'm Ivan 👋
 
-<strong>I am a Data Engineer and Software Engineer </strong>
+<strong>I am a Full-Stack Developer </strong>
 
-Greetings! I'm Ivan, a dedicated Software Engineer with a strong focus on cutting-edge technologies. Over the past five years, I have honed my skills in Python, React, TypeScript, Docker, SQL, and Kubernetes to craft seamless and dynamic user experiences.
+Greetings! I'm Ivan, a dedicated Full-Stack Developer with a strong focus on cutting-edge technologies. Over the past 5 years, I have honed my skills in Python, React, TypeScript, Docker, SQL, and Kubernetes to craft seamless and dynamic user experiences.
 
 My passion for excellence drives me to constantly push the boundaries of innovation. As an inherently ambitious and purposeful individual, I am constantly seeking new challenges to expand my skill set and contribute positively to every project I undertake.
 
