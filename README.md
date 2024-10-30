@@ -14,6 +14,7 @@ With a proven track record of delivering exceptional results, I'm ready to embar
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
+* 🎒 [Portfolio](resume-repo.vercel.app)
 * 👔 [LinkedIn](https://www.linkedin.com/in/ivansavitskiy/)
 * 🗣 [Threads](https://www.threads.net/@uvaaaaaaaaaaaaaaaaaaa)
 * ✉️ [savitskiy.i.y@gmail.com](mailto:savitskiy.i.y@gmail.com)
